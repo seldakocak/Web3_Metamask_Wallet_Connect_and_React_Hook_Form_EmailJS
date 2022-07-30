@@ -1,0 +1,24 @@
+.footer {
+  width: 100%;
+  height: auto;
+  margin: auto auto 0 auto;
+  padding: 20px;
+  background-color: white;
+}
+
+footer {
+  max-width: 970px !important;
+  height: auto;
+  margin: auto !important;
+  display: flex !important;
+  display: -webkit-flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  align-items: center;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+}
